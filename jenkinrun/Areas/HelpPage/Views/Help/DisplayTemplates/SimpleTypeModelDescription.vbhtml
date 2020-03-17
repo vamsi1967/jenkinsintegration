@@ -1,0 +1,3 @@
+@Imports jenkinrun.Areas.HelpPage.ModelDescriptions
+@ModelType SimpleTypeModelDescription
+@Model.Documentation
